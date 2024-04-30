@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//pl21563988.highcpmgate.com/8a/eb/81/8aeb81d3235b289d95b370dedd3194ff.js';
+script.src = '//pl23135811.highcpmgate.com/bb/fd/0a/bbfd0af697c2b1fab5cc55fe51dac04f.js';
 
 // Agregar el elemento <script> al final del body
 document.body.appendChild(script);
